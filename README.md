@@ -3,6 +3,8 @@ hello! welcome to my first public Python project. this project is very low-level
 
 this program will allow you to edit list variables (a type of variable in Python) and save/import them to the script's directory! it also comes packaged as a .exe file, so you don't have to run it from the terminal to pick a directory.
 the original .py file is included as the other file in the releases.
+BY THE WAY if you use the original python file you can run this on linux.
+
 
 # Why?
 well, because, this was just a little project to get me into Python. the only reason i'm publishing it is to show the world my first steps in programming.
